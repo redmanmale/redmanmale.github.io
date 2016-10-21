@@ -1,0 +1,33 @@
+name: redmanmale
+email: redmanmale@gmail.com
+description: about programming and moar
+baseurl: ""
+url: "https://redmanmale.github.io"
+github_username: redmanmale
+avatar: "https://avatars0.githubusercontent.com/u/6782721"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+#highlighter: pygments
+
+encoding: utf-8
+
+footer-links:
+    github: redmanmale
+    habrahabr: redmanmale
+    email: redmanmale@gmail.com
+    rss: RSS
+    stackoverflow: 2199401
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+ 
