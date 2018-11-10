@@ -2,8 +2,7 @@
 layout: post
 title:  "Как я начал контрибутить в опенсорс (на примере uTox)"
 date:   2017-06-02
-categories: c utox
-permalink: utox-contributing
+tags: c utox
 ---
 
 ## Abstract
