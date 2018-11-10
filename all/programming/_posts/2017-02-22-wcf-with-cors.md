@@ -2,8 +2,7 @@
 layout: post
 title:  "WCF service with CORS"
 date:   2017-02-22
-categories: c# wcf rest cors
-permalink: wcf-with-cors
+tags: c# wcf rest cors
 ---
 
 ## Abstract

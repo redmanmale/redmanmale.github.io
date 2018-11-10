@@ -2,8 +2,7 @@
 layout: post
 title:  "Child process executor"
 date:   2016-11-19
-categories: c# RPC
-permalink: child-process-executor
+tags: c# RPC
 ---
 
 ### Abstract
