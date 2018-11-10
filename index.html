@@ -4,12 +4,37 @@ layout: default
 
 <div class="home">
 
+  {% if site.categories.programming %}
+  <h3><a href="programming.html" style="color:#000">Programming</a></h3>
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.programming %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%B %d, %Y" }} » <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+        <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
       </li>
     {% endfor %}
   </ul>
+  {% endif %}
+
+  {% if site.categories.travel %}
+  <h3><a href="travel.html" style="color:#000">Travel</a></h3>
+  <ul class="post-list">
+    {% for post in site.categories.travel %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if site.categories.personal %}
+  <h3><a href="personal.html" style="color:#000">Personal</a></h3>
+  <ul class="post-list">
+    {% for post in site.categories.personal %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
 
 </div>
