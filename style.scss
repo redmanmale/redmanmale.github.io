@@ -79,7 +79,7 @@ p {
 
 a {
   color: $gray;
-  text-decoration: none;
+  text-decoration: underline;
 	cursor: pointer;
   &:active {
     color: $gray;
