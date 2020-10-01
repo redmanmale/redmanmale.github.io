@@ -18,6 +18,7 @@ html {
   position: relative;
   min-height: 100%;
   border-top: 2px solid $darkGray;
+  overflow-y: scroll;
 }
 
 body {
