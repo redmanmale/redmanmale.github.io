@@ -9,6 +9,13 @@ layout: default
         <time datetime="{{ page.date_start | date_to_xmlschema }}" itemprop="name">{{ page.date_start | date: "%d.%m.%Y" }}</time> - 
         <time datetime="{{ page.date_finish | date_to_xmlschema }}" itemprop="name">{{ page.date_finish | date: "%d.%m.%Y" }}</time>
     </p>
+    <span>
+    [
+        {% for tag in page.tags %}{% capture tag_name %}{{ tag }}{% endcapture %}
+            <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>
+        {% endfor %}
+    ]
+    </span>
   </header>
 
   <div class="post-content" itemprop="articleBody">
