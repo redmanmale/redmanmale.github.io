@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Защита паролей в конфигах с помощью AES"
-date:   2019-10-11
-tags: csharp, java, windows, aes
+title: "Защита паролей в конфигах с помощью AES"
+date: 2019-10-11
+tags: csharp java windows aes
 ---
 
 ## Abstract

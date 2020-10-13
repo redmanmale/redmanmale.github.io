@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Child process executor"
-date:   2016-11-19
-tags: c# RPC
+title: "Child process executor"
+date: 2016-11-19
+tags: csharp rpc
 ---
 
 ### Abstract

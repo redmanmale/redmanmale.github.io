@@ -1,7 +1,7 @@
 ---
 layout: post_travel
 title: "Белоруссия - 1"
-tags: CIS
+tags: cis
 date_start: 2012-04-27
 date_finish: 2012-05-02
 ---

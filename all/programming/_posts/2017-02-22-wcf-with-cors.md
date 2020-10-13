@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "WCF service with CORS"
-date:   2017-02-22
-tags: c# wcf rest cors
+title: "WCF service with CORS"
+date: 2017-02-22
+tags: csharp wcf rest cors
 ---
 
 ## Abstract
