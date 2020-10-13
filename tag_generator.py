@@ -13,13 +13,15 @@ No plugins required.
 import glob
 import os
 
-post_dir = '_posts/'
+post_dir = 'all/'
 tag_dir = 'tag/'
 
-filenames = glob.glob(post_dir + '*md')
+filenames = glob.glob(post_dir + '**/*md', recursive=True)
 
 total_tags = []
 for filename in filenames:
+    if not os.path.isfile(filename):
+        continue
     f = open(filename, 'r', encoding='utf8')
     crawl = False
     for line in f:
@@ -48,7 +50,7 @@ if not os.path.exists(tag_dir):
 for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'
     f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
+    write_str = '---\nlayout: tag_page\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
     f.write(write_str)
     f.close()
 print("Tags generated, count", total_tags.__len__())
