@@ -7,7 +7,11 @@ layout: default
   <ul class="post-list">
     {% for post in site.tags[page.tag] %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+        {% if post.active %}
+            <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+        {% else %}
+            <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » {{ post.title }}</span>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
