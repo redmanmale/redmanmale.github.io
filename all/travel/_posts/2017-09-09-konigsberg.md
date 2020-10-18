@@ -4,6 +4,7 @@ title: "Калининградская область"
 tags: internal
 date_start: 2017-09-09
 date_finish: 2017-09-12
+active: true
 ---
 
 _One temporary escape feel it start to permeate..._

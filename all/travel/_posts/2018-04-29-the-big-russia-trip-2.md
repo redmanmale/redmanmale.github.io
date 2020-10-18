@@ -4,6 +4,7 @@ title: "Большая Россия - 2"
 tags: internal
 date_start: 2018-04-29
 date_finish: 2018-05-06
+active: true
 ---
 
 ## The Big Russia Trip vol. 2, или пятое майское путешествие

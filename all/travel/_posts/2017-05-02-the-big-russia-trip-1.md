@@ -4,6 +4,7 @@ title: "Большая Россия - 1"
 tags: internal
 date_start: 2017-05-02
 date_finish: 2017-05-09
+active: true
 ---
 
 Я люблю свою страну. И хочу на неё посмотреть. Поэтому начинаю серию поездок Большая Россия (The Big Russia Trips).
