@@ -4,7 +4,6 @@ title: "Белоруссия - 1"
 tags: cis
 date_start: 2012-04-27
 date_finish: 2012-05-02
-active: true
 ---
 
 Второе майское путешествие.
