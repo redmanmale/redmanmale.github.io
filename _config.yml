@@ -23,7 +23,7 @@ footer-links:
 sass:
     style: compressed
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
 
