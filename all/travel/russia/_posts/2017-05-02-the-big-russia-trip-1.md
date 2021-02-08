@@ -10,6 +10,10 @@ toc: true
 Я люблю свою страну. И хочу на неё посмотреть. Поэтому начинаю серию поездок Большая Россия (The Big Russia Trips).
 
 ## The Big Russia Trip vol. 1, или четвёртое майское путешествие
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ### Владимир
 
@@ -23,6 +27,10 @@ toc: true
 
 В кафе цены чуть ниже московских.
 
+![photo]({{ site.baseurl }}/images/vladimir - (3).jpg)
+![photo]({{ site.baseurl }}/images/vladimir - (4).jpg)
+![photo]({{ site.baseurl }}/images/vladimir - (2).jpg)
+![photo]({{ site.baseurl }}/images/vladimir - (1).jpg)
 
 ### Ковров
 
@@ -31,6 +39,8 @@ toc: true
 Электричка из Владимира, ~1 час, ~170 рублей.
 
 Смотреть нечего. Ночевали здесь только потому, что иначе добраться до Иваново не получалось.
+
+![photo]({{ site.baseurl }}/images/kovrov.jpg)
 
 ### Иваново
 
@@ -45,6 +55,15 @@ toc: true
 Центр засран рекламой, тротуары хуёвые, но они хотя бы есть.
 
 У нас была квартира, так что ели дома, в основном.
+
+![photo]({{ site.baseurl }}/images/ivanovo - (1).jpg)
+![photo]({{ site.baseurl }}/images/ivanovo - (2).jpg)
+![photo]({{ site.baseurl }}/images/ivanovo - (3).jpg)
+![photo]({{ site.baseurl }}/images/ivanovo - (4).jpg)
+![photo]({{ site.baseurl }}/images/ivanovo - (5).jpg)
+![photo]({{ site.baseurl }}/images/ivanovo - (6).jpg)
+![photo]({{ site.baseurl }}/images/ivanovo - (7).jpg)
+![photo]({{ site.baseurl }}/images/ivanovo - (8).jpg)
 
 ### Кострома
 
@@ -68,6 +87,14 @@ toc: true
 
 Впервые увидел Волгу. С погодой не особо повезло, достаточно мрачно, но всё равно красиво.
 
+![photo]({{ site.baseurl }}/images/kostroma - (1).jpg)
+![photo]({{ site.baseurl }}/images/kostroma - (2).jpg)
+![photo]({{ site.baseurl }}/images/kostroma - (3).jpg)
+![photo]({{ site.baseurl }}/images/kostroma - (4).jpg)
+![photo]({{ site.baseurl }}/images/kostroma - (5).jpg)
+![photo]({{ site.baseurl }}/images/kostroma - (6).jpg)
+![photo]({{ site.baseurl }}/images/kostroma - (7).jpg)
+
 ### Ярославль
 
 6-7 мая (ночёвка).
@@ -79,6 +106,9 @@ toc: true
 Исторической застройки очень мало, а что есть, капитально засрано рекламой и новоделом. Шумно, пыльно, грязно. Набережная совершенно типичная — прямая асфальтовая дорожка с редкими лавочками без намёка на общественное пространство. Парк с чахлыми деревцами и унылыми памятниками.
 
 Цены в кафе ниже московских, даже в модных местах.
+
+![photo]({{ site.baseurl }}/images/yaroslavl - (1).jpg)
+![photo]({{ site.baseurl }}/images/yaroslavl - (2).jpg)
 
 ### Вологда
 
@@ -100,6 +130,19 @@ toc: true
 
 Обратный поезд в Москву был в полтретьего ночи, но милая хозяйка нашего хостела (рекомендую кстати, "Вальди") пустила нас вечером погреться перед поездом пару часов. Приятно.
 
+![photo]({{ site.baseurl }}/images/vologda - (1).jpg)
+![photo]({{ site.baseurl }}/images/vologda - (2).jpg)
+![photo]({{ site.baseurl }}/images/vologda - (3).jpg)
+![photo]({{ site.baseurl }}/images/vologda - (4).jpg)
+![photo]({{ site.baseurl }}/images/vologda - (5).jpg)
+![photo]({{ site.baseurl }}/images/vologda - (6).jpg)
+![photo]({{ site.baseurl }}/images/vologda - (7).jpg)
+
+### Домой
+{:.no_toc}
+
 Поезд в Москву, ~9 часов, ~720 рублей.
 
 В поезде был пиздец, ибо дети, грёбаные дети, ненавижу детей. А ещё больше ненавижу родителей, которые берут в поезд маленьких детей, а потом не могут их заткнуть. Ну и забавно было видеть всю дорогу домой за окном снег и дождь и холод, люди умирали (нет).
+
+![photo]({{ site.baseurl }}/images/the-big-russia-trip-1.jpg)

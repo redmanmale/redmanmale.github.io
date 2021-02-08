@@ -3,8 +3,10 @@ layout: default
 ---
 
 <div class="home">
+  {% if site.categories.russia %}
+  <h3><a href="russia.html" style="color:#000">Russia</a></h3>
   <ul class="post-list">
-    {% for post in site.categories.travel %}
+    {% for post in site.categories.russia %}
       <li>
         {% if post.active %}
             <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
@@ -14,4 +16,20 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+  {% endif %}
+
+  {% if site.categories.world %}
+  <h3><a href="world.html" style="color:#000">World</a></h3>
+  <ul class="post-list">
+    {% for post in site.categories.world %}
+      <li>
+        {% if post.active %}
+            <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+        {% else %}
+            <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » {{ post.title }}</span>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
 </div>

@@ -6,6 +6,8 @@ date_start: 2020-12-26
 date_finish: 2021-01-06
 active: true
 toc: true
+redirect_from:
+  - /all/travel/2020/12/25/the-big-russia-trip-3.html
 ---
 
 * TOC
