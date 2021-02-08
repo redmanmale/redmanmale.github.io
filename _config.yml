@@ -20,6 +20,9 @@ footer-links:
     rss: RSS
     telegram: world_in_red
 
+sass:
+    style: compressed
+
 gems:
   - jekyll-sitemap
   - jekyll-feed
