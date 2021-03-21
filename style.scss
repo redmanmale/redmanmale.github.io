@@ -126,6 +126,10 @@ strong, b {
 img {
   max-width: 100%;
   margin-bottom: 10px;
+
+  @include mobile {
+      margin-bottom: 0;
+  }
 }
 
 code {
