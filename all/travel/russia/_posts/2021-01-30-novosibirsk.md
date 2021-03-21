@@ -38,7 +38,6 @@ active: true
 
 Уже ставший привычным ледовый городок. Он здесь большой, но платный.
 ![photo]({{ site.baseurl }}/images/novosibirsk/16.jpg)
-
 ![photo]({{ site.baseurl }}/images/novosibirsk/17.jpg)
 ![photo]({{ site.baseurl }}/images/novosibirsk/18.jpg)
 
