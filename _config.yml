@@ -6,11 +6,9 @@ url: "https://redmanmale.github.io"
 github_username: redmanmale
 avatar: "https://avatars0.githubusercontent.com/u/6782721"
 
-# Build settings
 markdown: kramdown
 highlighter: rouge
-#highlighter: pygments
-
+permalink: pretty
 encoding: utf-8
 
 footer-links:
@@ -37,4 +35,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
- 
