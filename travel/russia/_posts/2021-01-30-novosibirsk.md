@@ -5,6 +5,8 @@ tags: internal
 date_start: 2021-01-30
 date_finish: 2021-02-01
 active: true
+redirect_from:
+  - /all/travel/russia/2021/01/30/novosibirsk
 ---
 
 Город с разной, но непременно прекрасной архитектурой.

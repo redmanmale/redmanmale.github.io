@@ -7,7 +7,8 @@ date_finish: 2021-01-06
 active: true
 toc: true
 redirect_from:
-  - /all/travel/2020/12/25/the-big-russia-trip-3.html
+  - /all/travel/2020/12/25/the-big-russia-trip-3
+  - /all/travel/russia/2020/12/25/the-big-russia-trip-3
 ---
 
 * TOC
