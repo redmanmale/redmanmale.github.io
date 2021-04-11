@@ -3,6 +3,7 @@ layout: post
 title: "Expression-tree copy"
 date: 2016-09-19
 tags: csharp expression-tree
+active: true
 ---
 
 Первый пост не тянет на rocket science, но боюсь, что если не начну с чего-то, то не начну вовсе.
