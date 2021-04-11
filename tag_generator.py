@@ -16,7 +16,7 @@ import os
 post_dir = 'all/'
 tag_dir = 'tag/'
 
-filenames = glob.glob(post_dir + '**/*md', recursive=True)
+filenames = glob.glob('programming/' + '**/*md', recursive=True) + glob.glob('travel/' + '**/*md', recursive=True)
 
 total_tags = []
 for filename in filenames:
