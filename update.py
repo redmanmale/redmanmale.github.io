@@ -8,9 +8,9 @@ telegram_url = 'https://t.me/s/world_in_red'
 personal_file = 'personal.html'
 personal_file_offset = 5
 index_file = "index.html"
-index_file_offset = 33
+index_file_offset = 38
 id_stub = 'stub'
-template = '    <script async src="https://telegram.org/js/telegram-widget.js" data-telegram-post="world_in_red/stub" data-width="100%" data-color="343638" data-dark-color="FFFFFF"></script>\n'
+template = '  <script async src="https://telegram.org/js/telegram-widget.js" data-telegram-post="world_in_red/stub" data-width="100%" data-color="343638" data-dark-color="FFFFFF"></script>\n'
 
 # read latest posts
 html_text = requests.get(telegram_url).text
