@@ -7,7 +7,7 @@ layout: default
   {% if site.categories.programming %}
   <h3><a href="programming" style="color:#000">Programming</a></h3>
   <ul class="post-list">
-    {% for post in site.categories.programming %}
+    {% for post in site.categories.programming limit: 5 %}
       <li>
         {% if post.active %}
             <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
@@ -22,7 +22,7 @@ layout: default
   {% if site.categories.travel %}
   <h3><a href="travel" style="color:#000">Travel</a></h3>
   <ul class="post-list">
-    {% for post in site.categories.travel %}
+    {% for post in site.categories.travel limit: 5 %}
       <li>
         {% if post.active %}
             <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }} » <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
