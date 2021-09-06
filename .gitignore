@@ -5,6 +5,7 @@ _data
 .jekyll-metadata
 .bundle
 .sass-cache
+.jekyll-cache
 Gemfile
 Gemfile.lock
 node_modules
