@@ -7,7 +7,7 @@ date_finish: 2021-06-13
 active: true
 ---
 
-На Кавказ я приехал прежде всего ради Эльбруса, про поход будет отдельный пост.  
+На Кавказ я приехал прежде всего ради Эльбруса ([пост про поход](https://redmanmale.com/travel/russia/2021/06/04/elbrus/)).  
 Извините.
 ![photo]({{ site.baseurl }}/images/stavropol/map.png)
 
