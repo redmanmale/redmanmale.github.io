@@ -4,7 +4,6 @@ title: "Плато Путорана"
 tags: internal trekking
 date_start: 2021-07-18
 date_finish: 2021-07-27
-redirect_to: https://tjournal.ru/travel/684307-plato-putorana
 active: true
 ---
 
