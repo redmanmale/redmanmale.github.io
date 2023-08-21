@@ -36,3 +36,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - images/**/originals/*
