@@ -2,7 +2,7 @@ import os, sys
 
 root = os.getcwd()
 post = sys.argv[1]
-folder_target = os.path.join(root, "images", post)
+folder_target = os.path.join(root, "../images", post)
 folder_originals = os.path.join(folder_target, "originals")
 
 files = os.listdir(folder_originals)
@@ -16,7 +16,7 @@ for filename in files:
     if pos == -1:
         inp = os.path.join(folder_originals, filename)
         outp = os.path.join(folder_target, filename.lower())
-        cmd = "c2post \"" + inp + "\" \"" + outp + "\""
+        cmd = "process_image.bat \"" + inp + "\" \"" + outp + "\""
         os.system(cmd)
     else:
         name = filename[0:pos]
@@ -29,7 +29,7 @@ for filename in files:
             inp2 = os.path.join(folder_originals, name + "-2" + ext2)
 
             outp = os.path.join(folder_target, name + ".jpg")
-            cmd = "c2post \"" + inp1 + "\" \"" + inp2 + "\" \"" + outp + "\""
+            cmd = "process_image.bat \"" + inp1 + "\" \"" + inp2 + "\" \"" + outp + "\""
             os.system(cmd)
     counter += 1
 

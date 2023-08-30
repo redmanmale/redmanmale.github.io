@@ -13,10 +13,11 @@ No plugins required.
 import glob
 import os
 
-post_dir = 'all/'
-tag_dir = 'tag/'
+post_dir = '../all/'
+tag_dir = '../tag/'
 
-filenames = glob.glob('programming/' + '**/*md', recursive=True) + glob.glob('travel/' + '**/*md', recursive=True)
+filenames = glob.glob('../programming/' + '**/*md', recursive=True) + glob.glob('../travel/' + '**/*md', recursive=True)
+print(len(filenames))
 
 total_tags = []
 for filename in filenames:
