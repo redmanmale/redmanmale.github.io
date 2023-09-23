@@ -52,7 +52,7 @@ active: true
 
 <br/>
 
-По пути в Саранск заруливаем полюбоваться на дореволюционный Мокринский мост.
+По пути в [Саранск]({{ site.baseurl }}/travel/russia/2022/05/07/saransk/) заруливаем полюбоваться на дореволюционный Мокринский мост.
 ![photo]({{ site.baseurl }}/images/cheboksary/17.jpg)
 ![photo]({{ site.baseurl }}/images/cheboksary/18.jpg)
 ![photo]({{ site.baseurl }}/images/cheboksary/19.jpg)
