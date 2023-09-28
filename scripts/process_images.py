@@ -15,7 +15,8 @@ for filename in files:
     pos = filename.find("-")
     if pos == -1:
         inp = os.path.join(folder_originals, filename)
-        outp = os.path.join(folder_target, filename.lower())
+        filename = os.path.splitext(filename.lower())[0] + ".jpg";
+        outp = os.path.join(folder_target, filename)
         cmd = "scripts\process_image.bat \"" + inp + "\" \"" + outp + "\""
         os.system(cmd)
     else:
