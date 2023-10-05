@@ -12,7 +12,7 @@ layout: default
     <span>
     [
         {% for tag in page.tags %}{% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>
+            <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>{% if tag != page.tags.last %} | {% endif %}
         {% endfor %}
     ]
     </span>
