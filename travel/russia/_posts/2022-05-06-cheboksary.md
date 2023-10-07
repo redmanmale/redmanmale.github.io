@@ -1,7 +1,7 @@
 ---
 layout: post_travel
 title: "Большая Россия - 4: Чебоксары"
-tags: internal
+tags: internal the-big-russia-trip-4
 date_start: 2022-05-04
 date_finish: 2022-05-06
 active: true
