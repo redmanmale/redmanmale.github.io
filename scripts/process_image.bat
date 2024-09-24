@@ -32,10 +32,12 @@ if %width1% equ %real_width% (
                 goto my_two_photos
             )
         ) else (
-            rem rotate second photo
-            set extra1=-rotate "-90>"
-            set extra2=-rotate "-180"
-            goto my_two_photos
+            if %height2% equ %real_width% (
+                rem rotate second photo
+                set extra1=-rotate "-90>"
+                set extra2=-rotate "-180"
+                goto my_two_photos
+            )
         )
     )
 )
@@ -48,12 +50,27 @@ if %width1% equ %real_height% (
                 set extra1=-rotate 90
                 goto my_two_photos
             )
+        ) else if %width2% equ %real_width% (
+            if %height2% equ %real_width% (
+                rem rotate both my photos
+                set extra1=-rotate "-90<"
+                set extra2=-rotate "90"
+                goto my_two_photos
+            )
         ) else (
-            rem rotate both photos
+            rem rotate both any photos
             set extra1=-rotate "-90<"
             set extra2=-rotate "90"
-            goto my_two_photos
+            goto any_two_photos
         )
+    )
+)
+
+if %width2% equ %real_height% (
+    if %height2% equ %real_width% (
+        rem rotate second photo
+        set extra1=-rotate "-90>"
+        set extra2=-rotate "-180"
     )
 )
 
@@ -81,7 +98,7 @@ goto cleanup
 rem for any photos to 492 x 2 + space 16 between = 1000
 
 rem combine 2 photos to 1, resize and add 8px horizontal space
-magick montage %1 %2 -tile x1 -geometry 492x+8+0 "%temp%\temp.jpg"
+magick montage %extra1% %1 %extra2% %2 -tile x1 -geometry 492x+8+0 "%temp%\temp.jpg"
 
 rem remove 8px outer space
 magick convert "%temp%\temp.jpg" -shave 8x0 %3

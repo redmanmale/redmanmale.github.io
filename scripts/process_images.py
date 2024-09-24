@@ -2,8 +2,14 @@ import os, sys
 
 root = os.getcwd()
 post = sys.argv[1]
-folder_target = os.path.join(root, "images", post)
-folder_originals = os.path.join(folder_target, "originals")
+post_parts = post.split("\\")
+folder_images = os.path.join(root, "images");
+folder_target = os.path.join(folder_images, post)
+
+if len(post_parts) == 1:
+    folder_originals = os.path.join(folder_target, "originals")
+else:
+    folder_originals = os.path.join(folder_images, post_parts[0], "originals", post_parts[1])
 
 files = os.listdir(folder_originals)
 files_count = len(files)
