@@ -17,7 +17,7 @@ redirect_from:
 ## Казань
 
 Большой движовый город, красивый исторический центр, много всего.
-![photo]({{ site.baseurl }}/images/tatarstan/map.png)
+![photo]({{ site.baseurl }}/images/maps/tatarstan.png)
 
 ##### Классика
 {:.no_toc}
@@ -71,7 +71,7 @@ redirect_from:
 ## Ижевск
 
 Город, в котором люди работают, а не ходят по кафешкам.
-![photo]({{ site.baseurl }}/images/udmurt/map.png)
+![photo]({{ site.baseurl }}/images/maps/udmurt.png)
 
 Архитектура.
 ![photo]({{ site.baseurl }}/images/udmurt/izhevsk/01.jpg)
@@ -110,7 +110,7 @@ Cоветовать ничего не буду, кроме, пожалуй, пи
 
 ## Пермь
 
-![photo]({{ site.baseurl }}/images/perm/map.png)
+![photo]({{ site.baseurl }}/images/maps/perm.png)
 
 Классная, живая, с ахуенной природой вокруг.
 ![photo]({{ site.baseurl }}/images/perm/01.jpg)
@@ -156,7 +156,7 @@ Cоветовать ничего не буду, кроме, пожалуй, пи
 ## Екатеринбург
 
 Культурная столица Урала. Много крутого стрит-арта.
-![photo]({{ site.baseurl }}/images/ekaterinburg/map.png)
+![photo]({{ site.baseurl }}/images/maps/ekaterinburg.png)
 
 ##### Классика
 {:.no_toc}

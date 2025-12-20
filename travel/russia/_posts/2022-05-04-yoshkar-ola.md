@@ -10,7 +10,7 @@ active: true
 ## Йошкар-Ола
 
 Здания-подделки, разбитые дороги и отличная кухня.
-![photo]({{ site.baseurl }}/images/mari-el/map.png)
+![photo]({{ site.baseurl }}/images/maps/mari-el.png)
 
 Добро пожаловать в столицу Марий Эл!
 ![photo]({{ site.baseurl }}/images/mari-el/yoshkar-ola/01.jpg)

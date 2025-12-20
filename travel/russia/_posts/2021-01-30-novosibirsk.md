@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 Город с разной, но непременно прекрасной архитектурой.
-![photo]({{ site.baseurl }}/images/novosibirsk/map.png)
+![photo]({{ site.baseurl }}/images/maps/novosibirsk.png)
 
 Зима!
 ![photo]({{ site.baseurl }}/images/novosibirsk/01.jpg)

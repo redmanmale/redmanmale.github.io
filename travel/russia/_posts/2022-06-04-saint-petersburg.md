@@ -8,7 +8,7 @@ active: true
 ---
 
 На всякий случай: Питер вот здесь.
-![photo]({{ site.baseurl }}/images/saint-petersburg/map.png)
+![photo]({{ site.baseurl }}/images/maps/saint-petersburg.png)
 
 Не были в Питере пару лет, ворвались с двух ног.
 ![photo]({{ site.baseurl }}/images/saint-petersburg/2022/01.jpg)

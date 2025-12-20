@@ -8,7 +8,7 @@ active: true
 ---
 
 Не первый раз в Краснодаре.
-![photo]({{ site.baseurl }}/images/krasnodar/map.png)
+![photo]({{ site.baseurl }}/images/maps/krasnodar.png)
 
 В этот раз времени было не очень много, так что ограничились главным — парком Галицкого.
 ![photo]({{ site.baseurl }}/images/krasnodar/2022/03.jpg)

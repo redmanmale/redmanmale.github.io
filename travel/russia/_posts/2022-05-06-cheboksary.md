@@ -10,7 +10,7 @@ active: true
 ## Чебоксары
 
 Город просторный, но уютный. Немного напоминает Минск.
-![photo]({{ site.baseurl }}/images/chuvash/map.png)
+![photo]({{ site.baseurl }}/images/maps/chuvash.png)
 
 Идём гулять по центру. Администрация.
 ![photo]({{ site.baseurl }}/images/chuvash/cheboksary/01.jpg)

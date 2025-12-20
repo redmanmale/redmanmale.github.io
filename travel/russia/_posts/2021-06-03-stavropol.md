@@ -9,7 +9,7 @@ active: true
 
 На Кавказ я приехал прежде всего ради Эльбруса ([пост про поход]({{ site.baseurl }}/travel/russia/2021/06/04/elbrus/)).  
 Извините.
-![photo]({{ site.baseurl }}/images/stavropol/map.png)
+![photo]({{ site.baseurl }}/images/maps/stavropol.png)
 
 ## Пятигорск
 

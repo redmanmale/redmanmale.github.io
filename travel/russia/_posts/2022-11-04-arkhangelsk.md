@@ -8,7 +8,7 @@ active: true
 ---
 
 Когда мы спросили у местных друзей, что здесь стоит посмотреть, нам ответили: центральная улица, остров Ягры и Малые Корелы. Мы послушались и не пожалели.
-![photo]({{ site.baseurl }}/images/arkhangelsk/map.png)
+![photo]({{ site.baseurl }}/images/maps/arkhangelsk.png)
 
 Начинаем с местного арбата (улица Карла Либкнехта).
 ![photo]({{ site.baseurl }}/images/arkhangelsk/01.jpg)
