@@ -8,7 +8,7 @@ active: true
 ---
 
 Расскажу про зимнюю поездку к огромным столбам выветривания на севере Уральских гор, одному из семи чудес России.
-![photo]({{ site.baseurl }}/images/manpupuner/01.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/01.jpg)
 
 ## Почему Маньпупунёр
 
@@ -29,47 +29,47 @@ active: true
 ## Лётное
 
 Вылетали из аэропорта Ухты ([отдельный пост про неё]({{ site.baseurl }}/travel/russia/2022/03/18/ukhta/)), с прохождением регистрации и досмотром, как на самолёт.
-![photo]({{ site.baseurl }}/images/manpupuner/02.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/02.jpg)
 
 В группе было 14 человек, включая двух гидов.
-![photo]({{ site.baseurl }}/images/manpupuner/03.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/03.jpg)
 
 Окна не супер чистые.
-![photo]({{ site.baseurl }}/images/manpupuner/04.jpg)
-![photo]({{ site.baseurl }}/images/manpupuner/05.jpg)
-![photo]({{ site.baseurl }}/images/manpupuner/06.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/04.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/05.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/06.jpg)
 
 Два часа полёта на Ми-8 — когда даже в наушниках не слышишь собственных мыслей — и мы подлетаем к плато.
-![photo]({{ site.baseurl }}/images/manpupuner/07.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/07.jpg)
 
 ## Пейзажи
 
 Идём от места посадки, а вокруг снежная пустыня.
-![photo]({{ site.baseurl }}/images/manpupuner/08.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/08.jpg)
 
 Верхний слой снега мягкий и пушистый, но под ним спрессованный до плотности льда, который без проблем держит человека. Снегоступы не нужны.  
 Зимой можно ходить где угодно, летом — только по проложенным тропинкам.
-![photo]({{ site.baseurl }}/images/manpupuner/09.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/09.jpg)
 
 Семь столбов-останцев, семь истуканов, семь великанов — шесть рядом и один поодаль — про них есть несколько противоречивых легенд и теорий.
-![photo]({{ site.baseurl }}/images/manpupuner/10.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/10.jpg)
 
 Что это шаман остановил угрожавших его соплеменникам великанов.
-![photo]({{ site.baseurl }}/images/manpupuner/11.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/11.jpg)
 
 Что это последствия распри на фоне неразделённой любви.
-![photo]({{ site.baseurl }}/images/manpupuner/12.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/12.jpg)
 
 Что это жилы твёрдых пород, устоявшие перед миллионами лет эрозии.
-![photo]({{ site.baseurl }}/images/manpupuner/13.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/13.jpg)
 
 Одно можно сказать точно — это очень красиво.
-![photo]({{ site.baseurl }}/images/manpupuner/14.jpg)
-![photo]({{ site.baseurl }}/images/manpupuner/15.jpg)
-![photo]({{ site.baseurl }}/images/manpupuner/16.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/14.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/15.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/16.jpg)
 
 Несколько часов на морозном ветру и пора обратно. Но перед этим — перекус на научной станции.
-![photo]({{ site.baseurl }}/images/manpupuner/17.jpg)
+![photo]({{ site.baseurl }}/images/komi/manpupuner/17.jpg)
 
 ## Бюджет
 

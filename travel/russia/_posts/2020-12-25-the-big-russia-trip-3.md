@@ -17,32 +17,32 @@ redirect_from:
 ## Казань
 
 Большой движовый город, красивый исторический центр, много всего.
-![photo]({{ site.baseurl }}/images/kazan/map.png)
+![photo]({{ site.baseurl }}/images/tatarstan/map.png)
 
 ##### Классика
 {:.no_toc}
 
-![photo]({{ site.baseurl }}/images/kazan/01.jpg)
-![photo]({{ site.baseurl }}/images/kazan/02.jpg)
-![photo]({{ site.baseurl }}/images/kazan/03.jpg)
+![photo]({{ site.baseurl }}/images/tatarstan/kazan/01.jpg)
+![photo]({{ site.baseurl }}/images/tatarstan/kazan/02.jpg)
+![photo]({{ site.baseurl }}/images/tatarstan/kazan/03.jpg)
 
 Дом Ушковой (национальная библиотека) — попал туда в последний день перед закрытием на реконструкцию — невероятные интерьеры.
 
-![photo]({{ site.baseurl }}/images/kazan/04.jpg)
+![photo]({{ site.baseurl }}/images/tatarstan/kazan/04.jpg)
 
 Офигенный антикварный кассовый аппарат в Старой аптеке на Проломной.
 
-![photo]({{ site.baseurl }}/images/kazan/05.jpg)
+![photo]({{ site.baseurl }}/images/tatarstan/kazan/05.jpg)
 
 ##### НеКлассика
 {:.no_toc}
-![photo]({{ site.baseurl }}/images/kazan/06.jpg)
+![photo]({{ site.baseurl }}/images/tatarstan/kazan/06.jpg)
 
 Подземная улица (под Баумана).
-![photo]({{ site.baseurl }}/images/kazan/07.jpg)
+![photo]({{ site.baseurl }}/images/tatarstan/kazan/07.jpg)
 
 Водозаборы: новый и старый.
-![photo]({{ site.baseurl }}/images/kazan/08.jpg)
+![photo]({{ site.baseurl }}/images/tatarstan/kazan/08.jpg)
 
 Удалось попасть на выставку [Пилота](https://www.instagram.com/13_pilot) на Казанской Ярмарке (местное ВДНХ).
 
@@ -62,7 +62,7 @@ redirect_from:
 * на Чёрном озере — на открытой воде: вход бесплатный, прокат 150₽. Лёд 6/10, небольшой.
 * на Кремлёвской набережной: вход 50₽, прокат 150₽. Лёд 7/10, каток вытянутый, но узкий. Где-то треть не чистили от снега, и кататься там нельзя.
 
-![photo]({{ site.baseurl }}/images/kazan/09.jpg)
+![photo]({{ site.baseurl }}/images/tatarstan/kazan/09.jpg)
 
 Большинство вывесок и надписей дублируется на татарском языке.
 
@@ -71,29 +71,29 @@ redirect_from:
 ## Ижевск
 
 Город, в котором люди работают, а не ходят по кафешкам.
-![photo]({{ site.baseurl }}/images/izhevsk/map.png)
+![photo]({{ site.baseurl }}/images/udmurt/map.png)
 
 Архитектура.
-![photo]({{ site.baseurl }}/images/izhevsk/01.jpg)
-![photo]({{ site.baseurl }}/images/izhevsk/02.jpg)
-![photo]({{ site.baseurl }}/images/izhevsk/03.jpg)
+![photo]({{ site.baseurl }}/images/udmurt/izhevsk/01.jpg)
+![photo]({{ site.baseurl }}/images/udmurt/izhevsk/02.jpg)
+![photo]({{ site.baseurl }}/images/udmurt/izhevsk/03.jpg)
 
 Набережная с прикольными скульптурами.
-![photo]({{ site.baseurl }}/images/izhevsk/04.jpg)
-![photo]({{ site.baseurl }}/images/izhevsk/05.jpg)
+![photo]({{ site.baseurl }}/images/udmurt/izhevsk/04.jpg)
+![photo]({{ site.baseurl }}/images/udmurt/izhevsk/05.jpg)
 
 Очень мощный монумент дружбы народов.
-![photo]({{ site.baseurl }}/images/izhevsk/06.jpg)
+![photo]({{ site.baseurl }}/images/udmurt/izhevsk/06.jpg)
 
 Прежде ни разу не видел номера домов за двести, но это не точно.
 А ещё в Ижевск впервые увидел большие ледяные городки. С горками, подсветкой и прочим.
-![photo]({{ site.baseurl }}/images/izhevsk/07.jpg)
+![photo]({{ site.baseurl }}/images/udmurt/izhevsk/07.jpg)
 
 У Удмуртии просто ахуеннейший герб.
-![photo]({{ site.baseurl }}/images/izhevsk/08.jpg)
+![photo]({{ site.baseurl }}/images/udmurt/izhevsk/08.jpg)
 
 Главный корпус Ижевского завода, в удручающем состоянии, к сожалению.
-![photo]({{ site.baseurl }}/images/izhevsk/09.jpg)
+![photo]({{ site.baseurl }}/images/udmurt/izhevsk/09.jpg)
 
 ##### Общепит
 {:.no_toc}
@@ -102,7 +102,7 @@ Cоветовать ничего не буду, кроме, пожалуй, пи
 ##### Катки
 {:.no_toc}
 Динамо — на стадионе в центре: вход 100₽, прокат 150₽, карточка 50₽ (могу одолжить, если вдруг соберётесь). Лёд 9/10, каток огромный. По соотношению размер и качество льда к стоимости это несомненный лидер поездки.
-![photo]({{ site.baseurl }}/images/izhevsk/10.jpg)
+![photo]({{ site.baseurl }}/images/udmurt/izhevsk/10.jpg)
 
 Некоторые государственные надписи дублируются на удмуртском. У частных заведений такого не заметил.
 

@@ -9,7 +9,7 @@ active: true
 
 Расскажу про поход по одному из самых красивых и труднодоступных мест России – крае десяти тысяч озёр и тысячи водопадов – по плато Путорана.
 
-![photo]({{ site.baseurl }}/images/putorana/01.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/01.jpg)
 
 ## Почему Путорана
 
@@ -31,7 +31,7 @@ __А что, так можно было?__
 
 Оказалось, что сгонять туда не так сложно, как я думал. И почти не так дорого.
 
-![photo]({{ site.baseurl }}/images/putorana/02.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/02.jpg)
 
 ## Одежда
 
@@ -49,8 +49,8 @@ __А что, так можно было?__
 
 Кстати, до того, как я сам начал ходить в походы, думал, что ходят в основном ребята. Оказалось, что нет – во всех трёх походах, куда я сходил за тот год, девушек было больше.
 
-![photo]({{ site.baseurl }}/images/putorana/03.jpg)
-![photo]({{ site.baseurl }}/images/putorana/04.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/03.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/04.jpg)
 
 ## Походное
 
@@ -58,20 +58,20 @@ __А что, так можно было?__
 
 Заброска на стартовую точку маршрута уже само по себе приключение – шесть часов от Норильска на катере по озеру Лама.
 
-![photo]({{ site.baseurl }}/images/putorana/05.jpg)
-![photo]({{ site.baseurl }}/images/putorana/06.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/05.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/06.jpg)
 
 Первые два дня мы поднимались на плато (1700 м) вдоль реки Омон-Юрях, бродя её несколько раз в день, выбирая более удобный берег – то есть менее заросшее болото.
 
-![photo]({{ site.baseurl }}/images/putorana/07.jpg)
-![photo]({{ site.baseurl }}/images/putorana/08.jpg)
-![photo]({{ site.baseurl }}/images/putorana/09.jpg)
-![photo]({{ site.baseurl }}/images/putorana/10.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/07.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/08.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/09.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/10.jpg)
 
 Потом около четырёх дней мы шли по самому плато, без сильных перепадов высот.
 
-![photo]({{ site.baseurl }}/images/putorana/11.jpg)
-![photo]({{ site.baseurl }}/images/putorana/12.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/11.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/12.jpg)
 
 В день проходили где-то по 15 км, в один из дней вышло больше 20 км, и это было тяжеловато.
 
@@ -79,15 +79,15 @@ __А что, так можно было?__
 
 Последние пару дней спускались вдоль реки Хойси обратно к озеру, шлёпая по болоту, буквально продираясь сквозь джунгли.
 
-![photo]({{ site.baseurl }}/images/putorana/13.jpg)
-![photo]({{ site.baseurl }}/images/putorana/14.jpg)
-![photo]({{ site.baseurl }}/images/putorana/15.jpg)
-![photo]({{ site.baseurl }}/images/putorana/16.jpg)
-![photo]({{ site.baseurl }}/images/putorana/17.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/13.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/14.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/15.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/16.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/17.jpg)
 
 Схема маршрута.
 
-![photo]({{ site.baseurl }}/images/putorana/18.png)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/18.png)
 Разные цвета - разные дни.
 
 Выброска, как и заброска была катером – 120 км по озеру.
@@ -104,9 +104,9 @@ __А что, так можно было?__
 
 На самолёт успели впритык.
 
-![photo]({{ site.baseurl }}/images/putorana/19.jpg)
-![photo]({{ site.baseurl }}/images/putorana/20.jpg)
-![photo]({{ site.baseurl }}/images/putorana/21.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/19.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/20.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/21.jpg)
 
 ## Бытовое
 
@@ -120,10 +120,10 @@ __А что, так можно было?__
 
 Капало всего пару дней на обратном пути, а в остальное время было солнечно.
 
-![photo]({{ site.baseurl }}/images/putorana/22.jpg)
-![photo]({{ site.baseurl }}/images/putorana/23.jpg)
-![photo]({{ site.baseurl }}/images/putorana/24.jpg)
-![photo]({{ site.baseurl }}/images/putorana/25.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/22.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/23.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/24.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/25.jpg)
 
 ## Пейзажи
 
@@ -137,29 +137,29 @@ __А что, так можно было?__
 
 Стоя на краю ущелья, ты смотришь вперёд и внутренне содрогаешься от того, насколько ты мал и ничтожен на фоне этой вечности.
 
-![photo]({{ site.baseurl }}/images/putorana/26.jpg)
-![photo]({{ site.baseurl }}/images/putorana/27.jpg)
-![photo]({{ site.baseurl }}/images/putorana/28.jpg)
-![photo]({{ site.baseurl }}/images/putorana/29.jpg)
-![photo]({{ site.baseurl }}/images/putorana/30.jpg)
-![photo]({{ site.baseurl }}/images/putorana/31.jpg)
-![photo]({{ site.baseurl }}/images/putorana/32.jpg)
-![photo]({{ site.baseurl }}/images/putorana/33.jpg)
-![photo]({{ site.baseurl }}/images/putorana/34.jpg)
-![photo]({{ site.baseurl }}/images/putorana/35.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/26.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/27.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/28.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/29.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/30.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/31.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/32.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/33.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/34.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/35.jpg)
 
 Никакие фотографии не передают масштаба и мощи (но я попробую).
 
-![photo]({{ site.baseurl }}/images/putorana/36.jpg)
-![photo]({{ site.baseurl }}/images/putorana/37.jpg)
-![photo]({{ site.baseurl }}/images/putorana/38.jpg)
-![photo]({{ site.baseurl }}/images/putorana/39.jpg)
-![photo]({{ site.baseurl }}/images/putorana/40.jpg)
-![photo]({{ site.baseurl }}/images/putorana/41.jpg)
-![photo]({{ site.baseurl }}/images/putorana/42.jpg)
-![photo]({{ site.baseurl }}/images/putorana/43.jpg)
-![photo]({{ site.baseurl }}/images/putorana/44.jpg)
-![photo]({{ site.baseurl }}/images/putorana/45.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/36.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/37.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/38.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/39.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/40.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/41.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/42.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/43.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/44.jpg)
+![photo]({{ site.baseurl }}/images/krasnoyarsk/putorana/45.jpg)
 
 ## Бюджет
 
