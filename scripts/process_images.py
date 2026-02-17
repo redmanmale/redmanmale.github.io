@@ -11,7 +11,7 @@ if len(post_parts) == 1:
 else:
     folder_originals = os.path.join(folder_images, post_parts[0], "originals", post_parts[1])
 
-files = os.listdir(folder_originals)
+files = [ entry.name for entry in os.scandir(folder_originals) if entry.is_file() ]
 files_count = len(files)
 counter = 0
 for filename in files:
