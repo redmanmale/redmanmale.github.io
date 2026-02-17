@@ -11,6 +11,10 @@ if %args% equ 2 (
 
 set real_width=3024
 set real_height=4032
+set geo=50
+
+set new_width=1856
+set new_height=4096
 
 rem get width and height of the photos
 set cmd="magick identify -ping -format "%%w" %1"
@@ -36,6 +40,17 @@ if %width1% equ %real_width% (
                 rem rotate second photo
                 set extra1=-rotate "-90>"
                 set extra2=-rotate "-180"
+                goto my_two_photos
+            )
+        )
+    )
+)
+
+if %width1% equ %new_width% (
+    if %height1% equ %new_height% (
+        if %width2% equ %new_width% (
+            if %height2% equ %new_height% (
+                set geo=32
                 goto my_two_photos
             )
         )
@@ -83,14 +98,14 @@ magick convert %1 -resize 1000 %2
 goto eof
 
 :my_two_photos
-rem for a photos 3024x4032
+rem for a photos 3024x4032 or 1856x4096
 
 rem combine 2 photos to 1 with the 50px horizontal space
-rem echo 1=%extra1% 2=%extra2%
-magick montage %extra1% %1 %extra2% %2 -tile x1 -geometry +50+0 "%temp%\temp.jpg"
+rem echo 1=%extra1% 2=%extra2% geo=%geo%
+magick montage %extra1% %1 %extra2% %2 -tile x1 -geometry +%geo%+0 "%temp%\temp.jpg"
 
 rem resize and remove 50px outer space
-magick convert "%temp%\temp.jpg" -shave 50x0 -resize 1000 %3
+magick convert "%temp%\temp.jpg" -shave %geo%x0 -resize x1000 %3
 
 goto cleanup
 
