@@ -6,8 +6,12 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">
-        <time datetime="{{ page.date_start | date_to_xmlschema }}" itemprop="name">{{ page.date_start | date: "%d.%m.%Y" }}</time> - 
-        <time datetime="{{ page.date_finish | date_to_xmlschema }}" itemprop="name">{{ page.date_finish | date: "%d.%m.%Y" }}</time>
+        {% if page.date_start == page.date_finish %}
+            <time datetime="{{ page.date_start | date_to_xmlschema }}" itemprop="name">{{ page.date_start | date: "%d.%m.%Y" }}</time>
+        {% else %}
+            <time datetime="{{ page.date_start | date_to_xmlschema }}" itemprop="name">{{ page.date_start | date: "%d.%m.%Y" }}</time> - 
+            <time datetime="{{ page.date_finish | date_to_xmlschema }}" itemprop="name">{{ page.date_finish | date: "%d.%m.%Y" }}</time>
+        {% endif %}
     </p>
     <span>
     [
