@@ -5,10 +5,6 @@ rem get number of args
 set args=0
 for %%x in (%*) do set /A args+=1
 
-if %args% equ 2 (
-    goto one_photo
-)
-
 set real_width=3024
 set real_height=4032
 set geo=50
@@ -22,6 +18,18 @@ for /f "tokens=*" %%g in ('%cmd%') do (set width1=%%g)
 
 set cmd="magick identify -ping -format "%%h" %1"
 for /f "tokens=*" %%g in ('%cmd%') do (set height1=%%g)
+
+if %args% equ 2 (
+    if %width1% equ %new_height% (
+        if %height1% equ %new_width% (
+            rem otherwise photo is too wide
+            set one_size=922
+            goto one_photo
+        )
+    )
+    set one_size=1000
+    goto one_photo
+)
 
 set cmd="magick identify -ping -format "%%w" %2"
 for /f "tokens=*" %%g in ('%cmd%') do (set width2=%%g)
@@ -92,8 +100,7 @@ if %width2% equ %real_height% (
 goto any_two_photos
 
 :one_photo
-rem resize any photo to 1000px
-magick convert %1 -resize 1000 %2
+magick convert %1 -resize %one_size% %2
 
 goto eof
 
